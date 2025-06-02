@@ -1,0 +1,10 @@
+.cabecalho{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 30px;
+}
+
+.cabecalho h3{
+    color: rgb(176, 206, 8);
+}
